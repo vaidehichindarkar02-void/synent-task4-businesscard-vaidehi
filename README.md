@@ -1,3 +1,5 @@
+<img width="1063" height="649" alt="1000604571" src="https://github.com/user-attachments/assets/719f2d5e-a565-47e4-813b-729b8291f7d1" />
+<img width="1063" height="649" alt="1000604570" src="https://github.com/user-attachments/assets/cbf7489b-1329-40c6-bf85-f1170b6829e3" />
 # Task 4: Business Card Design
 
 ## Overview
@@ -22,6 +24,4 @@ This task improved my understanding of layout planning, typography, branding, an
 
 ## Author
 **Vaidehi Chindarkar**
-<img width="1063" height="649" alt="1000604571" src="https://github.com/user-attachments/assets/141b90b9-faef-4841-ac79-405432ab9740" />
-<img width="1063" height="649" alt="1000604570" src="https://github.com/user-attachments/assets/77365217-4e74-4fdd-88ec-6f08394c5b48" />
 
